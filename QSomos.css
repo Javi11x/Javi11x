@@ -1,0 +1,48 @@
+.menuprincipal_footer{
+    background-color: #C70039 !important;
+  
+}
+.colorwhite{
+    color: white !important;
+}
+.dashcolor{
+    background-color: #C70039 !important;
+    color: white !important;
+}
+body{
+    background-color: #1b1b1b;
+}
+.gifs{
+    position: relative !important;
+    left: 15px !important;
+    width: 400px !important;
+    height: 250px !important;
+}
+.gifs2{
+   
+    width: 400px !important;
+    height: 250px !important;
+}
+
+.gifs3{
+   
+    width: 400px !important;
+    height: 250px !important;
+}
+.colorwhite{
+    color: white !important;
+}
+.btninsta{
+    position: relative !important;
+    top: 5px;
+}
+.carruselgears{
+    height: auto !important;
+}
+
+.clasecard{
+    background-color: #00008B !important;
+}
+.imgmodal{
+    max-width: 100% !important;
+}

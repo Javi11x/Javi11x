@@ -1,0 +1,73 @@
+.menuprincipal_footer{
+    background-color: #C70039 !important;
+  
+}
+.colorwhite{
+    color: white !important;
+}
+.dashcolor{
+    background-color: #C70039 !important;
+    color: white !important;
+}
+body{
+    background-color: #1b1b1b;
+}
+.gifs{
+    max-width: 100% !important;
+}
+.gifs2{
+    max-width: 100% !important;
+   
+}
+
+.gifs3{
+    max-width: 100% !important;
+    
+}
+.colorwhite{
+    color: white !important;
+}
+.btninsta{
+    position: relative !important;
+    top: 5px;
+}
+.clasecardv{
+    background-color: #00008B;
+    max-width: 100% !important;
+}
+.imgmodal{
+    max-width: 100% !important;
+}
+
+
+.formback{
+    background-color: blue !important;
+}
+
+.fiels{
+    position:relative;
+    max-width: 100% !important;
+    color: brown !important;
+    left: 18%;
+    border: 1px;
+}
+.colorwhite2{
+    max-width: 100% !important;
+    color: white !important;
+    position: relative;
+    right: 15%;
+}
+.tipomen{
+    background-color: white;
+    color: black;
+}
+.tablas{
+    max-width: 100% !important;
+    position: relative;
+    left: 100px !important;
+    width: 100px !important;
+}
+.colorwhite3{
+    font-size: 25px !important;
+    color: white;
+}

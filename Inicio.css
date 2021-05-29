@@ -1,0 +1,30 @@
+.menuprincipal_footer{
+    background-color: #C70039 !important;
+  
+}
+.imgnavbar{
+    height: 50px !important;
+    width: 200px !important;
+}
+.colorwhite{
+    color: white !important;
+}
+.dashcolor{
+    background-color: #C70039 !important;
+    color: white !important;
+}
+.Objetivo{
+    color: black;
+}
+.imgcarousel{
+    
+    width: 1000px !important;
+    height: 500px !important;
+}
+body{
+    background-color: #1b1b1b;
+}
+.btninsta{
+    position: relative !important;
+    top: 5px;
+}
